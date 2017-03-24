@@ -1,0 +1,11 @@
+{
+  "name": "codigofacilito",
+  "version": "1.0.0",
+  "description": "Tutorial Javascript CodigoFacilito",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ted Carrasco",
+  "license": "MIT"
+}
